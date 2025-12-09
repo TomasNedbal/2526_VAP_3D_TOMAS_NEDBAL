@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\3. ročník\\VAP\\1.zadani\\1.zadani\\1.zadani.csproj",
-      "projectName": "1.zadani",
-      "projectPath": "R:\\3. ročník\\VAP\\1.zadani\\1.zadani\\1.zadani.csproj",
+      "projectUniqueName": "R:\\3. ročník\\VAP\\2. zadani\\2.zadani\\2.zadani.csproj",
+      "projectName": "2.zadani",
+      "projectPath": "R:\\3. ročník\\VAP\\2. zadani\\2.zadani\\2.zadani.csproj",
       "packagesPath": "C:\\Users\\tomas.nedbal\\.nuget\\packages\\",
-      "outputPath": "R:\\3. ročník\\VAP\\1.zadani\\1.zadani\\obj\\",
+      "outputPath": "R:\\3. ročník\\VAP\\2. zadani\\2.zadani\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

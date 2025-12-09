@@ -1,0 +1,15 @@
+R:\3. ročník\VAP\2. zadani\2.zadani\bin\Debug\net8.0\2.zadani.exe
+R:\3. ročník\VAP\2. zadani\2.zadani\bin\Debug\net8.0\2.zadani.deps.json
+R:\3. ročník\VAP\2. zadani\2.zadani\bin\Debug\net8.0\2.zadani.runtimeconfig.json
+R:\3. ročník\VAP\2. zadani\2.zadani\bin\Debug\net8.0\2.zadani.dll
+R:\3. ročník\VAP\2. zadani\2.zadani\bin\Debug\net8.0\2.zadani.pdb
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.GeneratedMSBuildEditorConfig.editorconfig
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.AssemblyInfoInputs.cache
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.AssemblyInfo.cs
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.csproj.CoreCompileInputs.cache
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.sourcelink.json
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.dll
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\refint\2.zadani.dll
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.pdb
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\2.zadani.genruntimeconfig.cache
+R:\3. ročník\VAP\2. zadani\2.zadani\obj\Debug\net8.0\ref\2.zadani.dll
