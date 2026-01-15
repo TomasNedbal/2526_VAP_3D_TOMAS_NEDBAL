@@ -1,0 +1,7 @@
+Matematika 1,80
+Fyzika 2,20
+Elektrotechnika 2,50
+Programovani 1,40
+Site 2,60
+Anglictina 1,40
+Automatizace 1,71

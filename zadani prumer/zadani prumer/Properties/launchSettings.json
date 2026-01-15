@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "zadani prumer": {
+      "commandName": "Project",
+      "commandLineArgs": "znamky.txt vystup.txt"
+    }
+  }
+}

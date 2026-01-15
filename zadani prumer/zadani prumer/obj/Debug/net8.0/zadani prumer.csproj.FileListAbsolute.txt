@@ -1,0 +1,14 @@
+R:\3. ročník\VAP\zadani prumer\zadani prumer\bin\Debug\net8.0\zadani prumer.exe
+R:\3. ročník\VAP\zadani prumer\zadani prumer\bin\Debug\net8.0\zadani prumer.deps.json
+R:\3. ročník\VAP\zadani prumer\zadani prumer\bin\Debug\net8.0\zadani prumer.runtimeconfig.json
+R:\3. ročník\VAP\zadani prumer\zadani prumer\bin\Debug\net8.0\zadani prumer.dll
+R:\3. ročník\VAP\zadani prumer\zadani prumer\bin\Debug\net8.0\zadani prumer.pdb
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\zadani prumer.GeneratedMSBuildEditorConfig.editorconfig
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\zadani prumer.AssemblyInfoInputs.cache
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\zadani prumer.AssemblyInfo.cs
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\zadani prumer.csproj.CoreCompileInputs.cache
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\zadani prumer.dll
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\refint\zadani prumer.dll
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\zadani prumer.pdb
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\zadani prumer.genruntimeconfig.cache
+R:\3. ročník\VAP\zadani prumer\zadani prumer\obj\Debug\net8.0\ref\zadani prumer.dll
