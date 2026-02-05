@@ -1,4 +1,0 @@
-R:\3. ročník\VAP\Úvod\obj\Debug\net8.0\Úvod.GeneratedMSBuildEditorConfig.editorconfig
-R:\3. ročník\VAP\Úvod\obj\Debug\net8.0\Úvod.AssemblyInfoInputs.cache
-R:\3. ročník\VAP\Úvod\obj\Debug\net8.0\Úvod.AssemblyInfo.cs
-R:\3. ročník\VAP\Úvod\obj\Debug\net8.0\Úvod.csproj.CoreCompileInputs.cache
