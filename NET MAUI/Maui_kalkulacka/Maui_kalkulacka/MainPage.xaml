@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Maui_kalkulacka.MainPage">
+
+    <Grid RowDefinitions="*,7*">
+        <StackLayout Orientation="Horizontal">
+            <RadioButton Content="Světlý" GroupName="Theme" IsChecked="True" />
+            <RadioButton Content="Tmavý" GroupName="Theme" />
+        </StackLayout>
+
+        <Border Grid.Row="1" Style="{StaticResource DisplayLabelStyle}" >
+            <Label Text="{Binding Expression}" Style="{StaticResource DisplayLabelStyle}">
+        </Border>
+
+        <Grid Grid.Row="1" BackgroundColor="Black" RowDefinitions="*,*,*,*,*" ColumnDefinitions="*,*,*,*">
+
+            <Button Text="7" Grid.Row="0" Grid.Column="0" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="8" Grid.Row="0" Grid.Column="1" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="9" Grid.Row="0" Grid.Column="2" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="/" Grid.Row="0" Grid.Column="3" Margin="10" Clicked="OnNumberClicked"/>
+
+            <Button Text="4" Grid.Row="1" Grid.Column="0" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="5" Grid.Row="1" Grid.Column="1" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="6" Grid.Row="1" Grid.Column="2" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="*" Grid.Row="1" Grid.Column="3" Margin="10" Clicked="OnNumberClicked"/>
+
+            <Button Text="1" Grid.Row="2" Grid.Column="0" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="2" Grid.Row="2" Grid.Column="1" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="3" Grid.Row="2" Grid.Column="2" Margin="10" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="-" Grid.Row="2" Grid.Column="3" Margin="10" Clicked="OnNumberClicked"/>
+
+            <Button Text="0" Grid.Row="3" Grid.Column="0" Margin="10" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="," Grid.Row="3" Grid.Column="1" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="C" Grid.Row="3" Grid.Column="2" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="+" Grid.Row="3" Grid.Column="3" Margin="10" Clicked="OnNumberClicked"/>
+
+            <Button Text="(" Grid.Row="4" Grid.Column="0" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text=")" Grid.Row="4" Grid.Column="1" Margin="10" Clicked="OnNumberClicked"/>
+            <Button Text="=" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2" Margin="10" Clicked="Button_Clicked_1" Style="{StaticResource ButtonStyle}"/>
+
+
+        </Grid>
+    </Grid>
+    </Label>
+</ContentPage>
