@@ -1,0 +1,18 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             x:Class="ProjectManager.Views.MovieDetailsPage">
+
+	<ScrollView>
+		<VerticalStackLayout Padding="16">
+
+			<Entry Text="{Binding Title}" />
+			<Entry Text="{Binding Description}" />
+			<Entry Text="{Binding Year}" />
+			<Entry Text="{Binding Genre}" />
+			<Entry Text="{Binding Rating}" />
+
+			<Button Text="Uložit" Command="{Binding SaveCommand}" />
+
+		</VerticalStackLayout>
+	</ScrollView>
+
+</ContentPage>
