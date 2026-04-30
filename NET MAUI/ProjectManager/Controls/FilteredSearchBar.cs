@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectManager.Models
+namespace ProjectManager.Controls
 {
-    internal class Project
+    class FilteredSearchBar
     {
-        public string Title
     }
 }
