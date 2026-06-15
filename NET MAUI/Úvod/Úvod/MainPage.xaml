@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Úvod.MainPage" Title="Moje aplikace">
+
+
+    <Grid RowDefinitions="*,*,*" ColumnDefinitions="*,*,*">
+        <Label Text="Popisek" x:Name="CountLabel" HorizontalOptions="Center" VerticalOptions="Center">
+        <Button
+            Grid.Column="2"
+            x:Name="CounterBtn1"
+            Text="Click me" 
+            BackgroundColor="Red"
+            Clicked="OnCounterClicked"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+         <Button
+            Grid.Column="2"
+            x:Name="CounterBtn2"
+            Text="Click me" 
+            BackgroundColor="Red"
+            Clicked="OnCounterClicked"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" 
+        <Button
+            Grid.Row="2"
+            x:Name="CounterBtn3"
+            Text="Click me" 
+            BackgroundColor="Red"
+            Clicked="OnCounterClicked"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" 
+        <Button
+            Grid.Column="2"
+            Grid.Row="2"
+            x:Name="CounterBtn4"
+            Text="Click me" 
+            BackgroundColor="Red"
+            Clicked="OnCounterClicked"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" 
+        
+    </Grid>
+</ContentPage>
